@@ -1,4 +1,4 @@
-const { setBackgroundColorAsync } = require("expo-system-ui");
+//const { setBackgroundColorAsync } = require("expo-system-ui");
 
 /** @type {import('tailwindcss').Config} */
 module.exports = {
